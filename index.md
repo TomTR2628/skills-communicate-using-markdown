@@ -12,3 +12,7 @@ a = 10
 b = 20
 print(a+b)
 ```
+
+- [x] Wake up
+- [x] Take bath
+- [ ] Eat dryfruits
